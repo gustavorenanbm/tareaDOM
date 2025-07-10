@@ -1,0 +1,23 @@
+.titulo{
+    background-color:aquamarine;
+    color:black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 40px;
+    text-align: center;
+}
+.body{
+    background-color:rgb(99, 209, 243);
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    padding: 5px;
+}
+.tarjeta{
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    gap:1rem;
+}
